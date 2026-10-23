@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+supabase/functions/.env
+supabase/.temp
+.vercel
+supabase/migrations/005_local_setup.sql
